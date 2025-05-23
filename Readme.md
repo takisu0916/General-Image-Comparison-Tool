@@ -1,6 +1,6 @@
 # GICT: General Image Comparison Tool
 <div align="center">
-<img width="800" alt="image" src="images/results1.png">
+<img width="800" alt="image" src="images/result1.png">
 </div>
 
 The main features of this tool are: Select multiple images for comparison, support zooming in on specific areas of the image, set line width and margins, support up to two rectangular zoomed-in views, and save specific areas.
@@ -27,5 +27,5 @@ The main features of this tool are: Select multiple images for comparison, suppo
 3. Save specific areas image.
 
 <div align="center">
-<img width="800" alt="image" src="images/results2.png">
+<img width="800" alt="image" src="images/result2.png">
 </div>
